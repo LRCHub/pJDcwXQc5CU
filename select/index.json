@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Notget",
+  "base_artist": "Björk",
+  "createdAt": "2026-02-27T02:38:45.779311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Notget (Lotic Keptsafe Version)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/01_Notget_(Lotic_Keptsafe_Version)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Notget",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/02_Notget_Björk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Notget",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/03_Notget_Björk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Notget - Live",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/04_Notget_-_Live_Björk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Notget",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/05_Notget_Björk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Notget (Lotic Keptsafe version)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/06_Notget_(Lotic_Keptsafe_version)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Notget",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_Notget_Björk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Notget",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/pl_01_Notget_Björk.txt"
+    }
+  ]
+}
